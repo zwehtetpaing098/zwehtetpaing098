@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm ZweHtetPaing</h1>
 <h3 align="left">Web developer from Myanmar</h3>
-<img align="right" alt="let's code" width="400" src="https://media3.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif?cid=ecf05e478jd5vcgpconwyv9pcdfqgnofid0bis15lde0i2g9&rid=giphy.gif&ct=g">
+<img align="right" alt="let's code" width="400" src="https://media0.giphy.com/media/bN66sjJwDGcD26HXun/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zwehtetpaing098&label=Profile%20views&color=0e75b6&style=flat" alt="zwehtetpaing098" /> </p>
 
